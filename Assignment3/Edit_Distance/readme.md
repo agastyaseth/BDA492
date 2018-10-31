@@ -27,7 +27,7 @@ There are many ways of scoring the operations. In the case of Levenshtein Distan
 
 **Example:** 
 
-![Untitled.png](attachment:Untitled.png)
+![Untitled.png](./images/Untitled.png)
 
 
 ```python

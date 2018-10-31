@@ -29,6 +29,9 @@ There are many ways of scoring the operations. In the case of Levenshtein Distan
 
 ![Untitled.png](./images/Untitled.png)
 
+## How To Run:
+
+Running the code is straightforward. Open the .ipynb file in Jupyter notebook and run all the cells.
 
 ```python
 import numpy as np
@@ -109,5 +112,5 @@ def edit_dist (X,Y):
 X = "AGASTYA"
 Y = "SUCHIT"
 d = edit_dist(X,Y)
-
+d
 ```

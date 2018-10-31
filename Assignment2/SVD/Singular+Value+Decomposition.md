@@ -24,6 +24,13 @@ An orthonormal basis is a set of unit vectors any two of which are orthogonal.
 In this assignment, I'll be discussing a reference example from the following book (pg. 420)
 [Mining Massive Datasets](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjfso-Tm7HeAhVDXn0KHdPHC6sQFjABegQIARAC&url=http%3A%2F%2Finfolab.stanford.edu%2F~ullman%2Fmmds%2Fbook.pdf&usg=AOvVaw3zRMVWxsYJ--Uywgu3MQNy)
 
+### How to run
+
+Running this program is really straightforward:
+
+* Open the .ipynb file
+* Run all the cells of the notebook
+
 ### Initializing the libraries
 
 
